@@ -1,0 +1,10 @@
+scikit-learn
+scipy
+psutil
+argparse
+Cython
+gensim
+numpy
+pandas
+
+-e git+https://github.com/phanein/deepwalk#egg=deepwalk
